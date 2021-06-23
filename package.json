@@ -92,5 +92,8 @@
     "trailingComma": "none"
   },
   "author": "Nicolas Gallagher",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react-native-web": "^0.17.0"
+  }
 }
